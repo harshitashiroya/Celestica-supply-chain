@@ -24,5 +24,7 @@ How to Use
 Clone the repository: Use Git or checkout with SVN using the web URL.
 Explore the Data: Navigate through various visual components to explore different aspects of the data.
 Interpret the Insights: Use the visualizations to gain insights into Celestica’s operational and financial status.
+
+
 Credits
 Created by [Harmeet Singh; Mihir Chaudhary; Harshita Shiroya; Tanvi Patel]
